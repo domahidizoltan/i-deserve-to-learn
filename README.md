@@ -11,9 +11,10 @@ These are my solutions using Python:
 - [Word Break Problem](dynamic_programming/word_break_problem.py) [:link:](http://www.ideserve.co.in/learn/word-break-problem)
 
 
-## Graph
+### Graph
 
 - [Breadth first search in a graph](graph/breadth_first_search_in_graph.py) [:link:](http://www.ideserve.co.in/learn/breadth-first-search-in-graph)
+- [Minimum number of trials to reach from source word to destination word](graph/minimum_trials_to_reach_from_source_to_destination_word.py) [:link:](http://www.ideserve.co.in/learn/minimum-trials-to-reach-from-source-to-destination-word)
 
 
 ### Strings
