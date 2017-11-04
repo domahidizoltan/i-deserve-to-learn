@@ -3,11 +3,14 @@
 On the "[I Deserve To Learn](http://www.ideserve.co.in/)" site 
 you can learn algorithms of the most common coding interview problems. 
 
+:warning: In some cases my solution differ from the algorithm described on the site.
+
 These are my solutions using Python:
 
 
 ### Dynamic Programming
 
+- [Find minimum edit distance between given two strings](dynamic_programming/edit_distance_dynamic_programming.py) [:link:](http://www.ideserve.co.in/learn/edit-distance-dynamic-programming)
 - [Word Break Problem](dynamic_programming/word_break_problem.py) [:link:](http://www.ideserve.co.in/learn/word-break-problem)
 
 

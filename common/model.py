@@ -47,3 +47,7 @@ class Edge(object):
 
     def __repr__(self):
         return "[{} -> {} ({})]".format(self.node1.node_id, self.node2.node_id, self.distance)
+
+
+if __name__ == "__main__":
+    pass
