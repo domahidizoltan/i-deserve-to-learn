@@ -46,7 +46,7 @@ def minimum_trials(source, destination, dictionary):
 
 
 if __name__ == "__main__":
-    dictionary = ["BCCI","AICC","ICC","CCI","MCC","MCA", "ACC"]
+    dictionary = ["BCCI", "AICC", "ICC", "CCI", "MCC", "MCA", "ACC"]
     source = "AICC"
     destination = "MCA"
 

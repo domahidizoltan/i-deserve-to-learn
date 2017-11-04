@@ -8,7 +8,6 @@ class Node(object):
             for node in nodes:
                 Edge.connect_one_way(Edge(self, node))
 
-
     def add_edge(self, edge):
         self.edges.append(edge)
         node = edge.node2 if edge.node1 is self else edge.node1
