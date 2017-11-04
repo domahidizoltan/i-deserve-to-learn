@@ -11,6 +11,11 @@ These are my solutions using Python:
 - [Word Break Problem](dynamic_programming/word_break_problem.py) [:link:](http://www.ideserve.co.in/learn/word-break-problem)
 
 
+## Graph
+
+- [Breadth first search in a graph](graph/breadth_first_search_in_graph.py) [:link:](http://www.ideserve.co.in/learn/breadth-first-search-in-graph)
+
+
 ### Strings
 
 - [Postfix Expression Evaluation](strings/postfix_expression_evaluation.py) [:link:](http://www.ideserve.co.in/learn/postfix-expression-evaluation)
